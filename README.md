@@ -1,13 +1,13 @@
-#Calculadora JavaScript
+# Calculadora JavaScript
 Este é um projeto de calculadora simples desenvolvido em JavaScript, HTML e CSS. A calculadora realiza operações básicas de adição, subtração, multiplicação e divisão. O objetivo principal é fornecer uma interface intuitiva para realizar cálculos simples diretamente no navegador.
 
-##Função
+## Função
 Adicionar à
 Subtração
 Multiplicação
 distribuir
 
-##Como usar
+## Como usar
 1.Baixe ou clone o repositório:
 ````bash
 clone do git https://github.com/seu-usuario/calculadora-js.git
